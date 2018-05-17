@@ -20,10 +20,11 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel ‘r
 
 
 ## Portfolio
-Zet hier de links neer naar jullie documentatie:
-- https://drive.google.com/drive/folders/18t0exlDKW9gc4oHrTVqa7AfmFrQkyth4?usp=sharing
+Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek]()
 * [Ontwerp]()
 * [Testrapportage]()
-* [Presentatie]()
+* [Presentatie (1)](https://docs.google.com/presentation/d/12kriEEaEeGfDMLemg5DdcjpAhFhXVgBIlIXp4My1KNA/edit?usp=sharing)
+* [Presentatie (2)]()
+* [Presentatie (3)]()
