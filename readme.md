@@ -20,7 +20,8 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel ‘r
 
 
 ## Portfolio
-Zet hier de links neer naar jullie documentatie.
+Zet hier de links neer naar jullie documentatie:
+- https://drive.google.com/drive/folders/18t0exlDKW9gc4oHrTVqa7AfmFrQkyth4?usp=sharing
 
 * [Onderzoek]()
 * [Ontwerp]()
