@@ -18,11 +18,10 @@ De speler is game over wanneer zijn/haar ‘health’ op nul staat.
 
 Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel ‘rage’) willen vrijlaten.
 
-
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
-* [Onderzoek]()
+* [Onderzoek](https://drive.google.com/file/d/1kI546m3cRKha6XwuVb_XlXfuNIjXUDGB/view?usp=sharing)
 * [Ontwerp]()
 * [Testrapportage]()
 * [Presentatie (1)](https://docs.google.com/presentation/d/12kriEEaEeGfDMLemg5DdcjpAhFhXVgBIlIXp4My1KNA/edit?usp=sharing)
