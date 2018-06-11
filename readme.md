@@ -24,6 +24,6 @@ Hier de links naar onze documentatie:
 * [Onderzoek verslag](https://drive.google.com/file/d/1kI546m3cRKha6XwuVb_XlXfuNIjXUDGB/view?usp=sharing)
 * [Ontwerp]()
 * [Testrapportage]()
-* [Presentatie (1)](https://docs.google.com/presentation/d/12kriEEaEeGfDMLemg5DdcjpAhFhXVgBIlIXp4My1KNA/edit?usp=sharing)
-* [Presentatie (2)]()
+* [Presentatie (1)](https://docs.google.com/presentation/d/16KBqo6fCtCnjNl4AcMlDdMLhbZ4QN88q3iyZVaA16Bo/edit?usp=sharing)
+* [Presentatie (2)](https://docs.google.com/presentation/d/1XlSUyZD5jRkSKBE3iDtjK1FI_0RHFXuWH1grA21yiEo/edit?usp=sharing)
 * [Presentatie (3)]()
