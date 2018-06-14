@@ -26,7 +26,7 @@ Hier de links naar onze documentatie:
 * [Testrapportage]()
 
 * [Presentatie (1)](https://docs.google.com/presentation/d/16KBqo6fCtCnjNl4AcMlDdMLhbZ4QN88q3iyZVaA16Bo/edit?usp=sharing)
-* [Presentatie (2)](https://docs.google.com/presentation/d/1XlSUyZD5jRkSKBE3iDtjK1FI_0RHFXuWH1grA21yiEo/edit?usp=sharing)
+* [Presentatie (2)](https://docs.google.com/presentation/d/1t4wSDImfHVS7ZlqmKtkqrOzeokGryIAe1LBjec5EWOE/edit?usp=sharing)
 * [Presentatie (3)]()
 
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
