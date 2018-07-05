@@ -29,5 +29,6 @@ Hier de links naar onze documentatie:
 * [Presentatie (3)]()
 
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
+* [~~Logboek Lucas Muileboom~~](#)
 
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
