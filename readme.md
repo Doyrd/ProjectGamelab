@@ -20,8 +20,6 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel ‘r
 ## Portfolio
 Hier de links naar onze documentatie:
 
-(Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
-
 * [Onderzoek verslag](https://drive.google.com/file/d/1kI546m3cRKha6XwuVb_XlXfuNIjXUDGB/view?usp=sharing)
 * [Ontwerp verslag](https://drive.google.com/file/d/1W2kcl_CTyUhe-zOrM6CCIGgtK6Q2yZOb/view?usp=sharing)
 * [Testrapportage](https://drive.google.com/file/d/1n1AwvAIhf14uDjnhUoYBOasOp-zwDnog/view?usp=sharing)
@@ -34,3 +32,5 @@ Hier de links naar onze documentatie:
 * [~~Logboek Lucas Muileboom~~](#)
 
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
+
+(Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
