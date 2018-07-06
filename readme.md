@@ -29,7 +29,7 @@ Hier de links naar onze documentatie:
 * [Presentatie (3)](https://docs.google.com/presentation/d/1gN-9qDjpC1_Kyi2xzcAT7e-Ly9MgM4_ecL-elHSnHXY/edit?usp=sharing)
 
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
-* [~~Logboek Lucas Muileboom~~](#)
+* [Logboek Lucas Muileboom](https://docs.google.com/spreadsheets/d/1jQcBpCrEyeLHWyfBpI4QbLJH3TwDP6p8EPcgKvCXerE/edit?usp=sharing)
 
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
 
