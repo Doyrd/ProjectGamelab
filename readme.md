@@ -6,16 +6,18 @@ Team #16
 
 ## Ontwerp
 
-De speler is een gigantische mythisch beest (geïnspireerd door King Kong, Godzilla en Rhedosaurus) en bevindt zich in een stad.
-Het doel in het spel is om zo veel mogelijk schade aan te richten (met een combo ‘streak’ erbij).
-De speler wordt bekogeld en aangevallen door mensen die zich bevinden in wapens (o.a. tanks) en vliegtuigen.
-De speler kan gebruik maken van de ‘head tracking’ om vijanden te ontwijken en de ‘hand-tracking’ controller om dingen te slopen en aan te vallen.
-De speler kan dingen slopen zoals huizen, gebouwen en auto’s.
-De speler heeft een UI, waarop zijn/haar ‘health’ wordt gedisplayed, ook is er een ‘bar’ die de speler zijn/haar rage aangeeft, wanneer de spelers ‘rage bar’ op 100% zit, zal de speler in een super mode transformeren en meer schade aanrichten bij het slopen van dingen.
+De speler is een gigantische mythisch beest, geïnspireerd door King Kong, Godzilla en Rhedosaurus.
+De speler bevindt zich in een stad. Het doel in het spel is om zo veel mogelijk schade aan te richten. De speler wordt bekogeld en aangevallen door mensen die zich bevinden in wapens, o.a. tanks en vliegtuigen. De speler kan meer punten verdienen door combo’s te maken.
 
-De speler is game over wanneer zijn/haar ‘health’ op nul staat.
+De speler kan gebruik maken van de head tracking om vijanden te ontwijken en de hand-tracking controllers om te slopen en aan te vallen. De speler kan huizen, gebouwen en auto’s slopen.
 
-Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel ‘rage’) willen vrijlaten.
+De speler heeft een UI, waarop zijn/haar levens wordt gedisplayd, ook is er een meter die de speler zijn/haar rage aangeeft en wanneer de spelers meter op 100% staat, zal de speler in een super mode transformeren en meer schade aanrichten bij het slopen van dingen.
+
+De speler is game over wanneer zijn/haar leven op nul staat.
+De speler wint wanneer hij/zij de maximale schade heeft aangericht.
+
+Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage) willen vrijlaten.
+
 
 ## Portfolio
 Hier de links naar onze documentatie:
