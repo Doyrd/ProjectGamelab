@@ -22,9 +22,9 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage
 ## Portfolio
 Hier de links naar onze documentatie:
 
-* [Onderzoek verslag](https://drive.google.com/file/d/1kI546m3cRKha6XwuVb_XlXfuNIjXUDGB/view?usp=sharing)
-* [Ontwerp verslag](https://drive.google.com/file/d/1W2kcl_CTyUhe-zOrM6CCIGgtK6Q2yZOb/view?usp=sharing)
-* [Testrapportage](https://drive.google.com/file/d/1n1AwvAIhf14uDjnhUoYBOasOp-zwDnog/view?usp=sharing)
+* [Onderzoek verslag](https://drive.google.com/file/d/14xkPP0vTsFhdn6Bsmg59C0k9hhfzEnOd/view?usp=sharing)
+* [Ontwerp verslag](https://drive.google.com/file/d/1l2-WpK_L94znLD9c_LqjRMiREQNzkSSg/view?usp=sharing)
+* [Testrapportage](https://drive.google.com/file/d/1jnAoS2-iz_8ovF1oYk_dUN4pWdKJmbRc/view?usp=sharing)
 
 * [Presentatie (1)](https://docs.google.com/presentation/d/13SDvjZr7BL-u2jC0GK3C3-shu2vzebwQ5L3DoDuDB6Y/edit?usp=sharing)
 * [Presentatie (2)](https://docs.google.com/presentation/d/1S52h7vU5pbSjc4MVdpI494bTkGfs2ZJ-V2FD4eBoMwI/edit?usp=sharing)
