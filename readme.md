@@ -19,8 +19,8 @@ De speler wint wanneer hij/zij de maximale schade heeft aangericht.
 Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage) willen vrijlaten.
 
 
-## Portfolio
-# Hier de links naar onze documentatie:
+# Portfolio
+## Hier de links naar onze documentatie:
 
 D1-K1-W1:
 * [__Presentatie (1)__](#)
