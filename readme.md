@@ -29,12 +29,12 @@ D1-K1-W1:
 * [__Beschrijving onderzoek__](https://drive.google.com/file/d/1x3jXmL7yKNQkxqr77USwyQ4hkga9PdjA/view?usp=sharing)
 
 D1-K1-W2:
-* [__Presentatie (2)__](#)
+* [__Presentatie (2)__](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
 * [__Technisch design document__](#)
 * [__IDE document__](#)
 
 D1-K1-W3:
-* [__Presentatie (3)__](#)
+* [__Presentatie (3)__](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
 * [__Source code__](#)
 * [Schema's](#)
 * [Onderwerpdocumenten](#)
