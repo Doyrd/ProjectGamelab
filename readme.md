@@ -24,7 +24,7 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage
 Hier de links naar onze documentatie:
 
 D1-K1-W1:
-* [__Presentatie (1)__](#)
+* [__Presentatie (1)__](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
 * [__Bronnenlijst__](#)
 * [__Beschrijving onderzoek__](#)
 
