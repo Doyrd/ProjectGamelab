@@ -37,12 +37,13 @@ D1-K1-W3:
 * [__Presentatie (3)__](#)
 * [__Source code__](#)
 * [Schema's](#)
-* [Source code~](#)
-* [Source code](#)
+* [Onderwerpdocumenten](#)
+* [Tussentijdse tests](#)
 
 D1-K1-W4:
-* [__Source code__](#)
-* [__Testrapportage__](#)
+* [Product](#)
+* [__Testplan__](#)
+* [__Testrapport__](#)
 * [__Usertests (footage op YouTube)__](#)
 
 Extra:
