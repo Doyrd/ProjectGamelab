@@ -43,12 +43,13 @@ D1-K1-W3:
 D1-K1-W4:
 * [Product](#)
 * [__Testplan__](#)
-* [__Testrapport__](#)
+* [__Testrapport__](https://drive.google.com/file/d/1ryKSjJ8zvi7tuwFIVj8PhrIrCqgaa457/view?usp=sharing)
 * [__Usertests (footage op YouTube)__](#)
 
 Extra:
-* [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
-* [Logboek Lucas Muileboom](https://docs.google.com/spreadsheets/d/1jQcBpCrEyeLHWyfBpI4QbLJH3TwDP6p8EPcgKvCXerE/edit?usp=sharing)
+* [Logboek Dave Bakker]()
+* [Logboek Lucas Muileboom]()
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
+* [Ontwerp met class diagram](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
 
 (Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
