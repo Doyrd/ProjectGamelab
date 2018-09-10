@@ -25,8 +25,8 @@ Hier de links naar onze documentatie:
 
 D1-K1-W1:
 * [__Presentatie (1)__](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
-* [__Bronnenlijst__](#)
-* [__Beschrijving onderzoek__](#)
+* [__Bronnenlijst__](https://drive.google.com/file/d/10HvNiMM2WZVrq8uvivEcCxFiL0xsD8O7/view?usp=sharing)
+* [__Beschrijving onderzoek__](https://drive.google.com/file/d/1x3jXmL7yKNQkxqr77USwyQ4hkga9PdjA/view?usp=sharing)
 
 D1-K1-W2:
 * [__Presentatie (2)__](#)
