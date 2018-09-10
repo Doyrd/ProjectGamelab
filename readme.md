@@ -42,7 +42,7 @@ D1-K1-W3:
 
 D1-K1-W4:
 * [Product](#)
-* [__Testplan__](#)
+* [__Testplan__](https://drive.google.com/file/d/1MOCzryus9uILLXT6bfprCk66Fl2xIWyd/view?usp=sharing)
 * [__Testrapport__](https://drive.google.com/file/d/1ryKSjJ8zvi7tuwFIVj8PhrIrCqgaa457/view?usp=sharing)
 * [__Usertests (footage op YouTube)__](#)
 
