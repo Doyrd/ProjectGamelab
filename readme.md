@@ -26,12 +26,12 @@ Hier de links naar onze documentatie:
 D1-K1-W1:
 * [Presentatie (1)](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
 * [__Bronnenlijst__](https://drive.google.com/file/d/10HvNiMM2WZVrq8uvivEcCxFiL0xsD8O7/view?usp=sharing)
-* [__Beschrijving onderzoek__](#)
+* [__Beschrijving onderzoek__](https://drive.google.com/file/d/1tOaJLPx6USeemKBD5VJDV39P4owPE8zy/view?usp=sharing)
 
 D1-K1-W2:
 * [Presentatie (2)](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
 * [__Technisch design document__](https://drive.google.com/file/d/18vcrHzeiKov0kFHB6xWupzvyMwCiahmv/view?usp=sharing)
-* [__IDE document__](https://drive.google.com/file/d/1tc6y__XkEXl-J_9TUW0a8x1hwjFJKcU0/view?usp=sharing)
+* [__IDE document__](https://drive.google.com/file/d/1cce1Arzxs2l9rkVMqd0DcHbqfA33j-nt/view?usp=sharing)
 
 D1-K1-W3:
 * [Presentatie (3)](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
