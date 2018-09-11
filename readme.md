@@ -37,7 +37,7 @@ D1-K1-W3:
 * [Presentatie (3)](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
 * [__Source code__](#)
 * [Schema's](#)
-* [Onderwerpdocumenten](#)
+* [Onderwerpdocumenten](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
 * [Tussentijdse tests](https://drive.google.com/file/d/1iz4lNBSjEwsO5ppdnZL19csc6Tpor5_E/view?usp=sharing)
 
 D1-K1-W4:
@@ -50,6 +50,5 @@ Extra:
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
 * [Logboek Lucas Muileboom](https://docs.google.com/spreadsheets/d/1jQcBpCrEyeLHWyfBpI4QbLJH3TwDP6p8EPcgKvCXerE/edit?usp=sharing)
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
-* [Ontwerp met class diagram](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
 
 (Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
