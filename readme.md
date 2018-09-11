@@ -30,7 +30,7 @@ D1-K1-W1:
 
 D1-K1-W2:
 * [Presentatie (2)](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
-* [__Technisch design document__](#)
+* [__Technisch design document__](https://drive.google.com/file/d/18vcrHzeiKov0kFHB6xWupzvyMwCiahmv/view?usp=sharing)
 * [__IDE document__](https://drive.google.com/file/d/1tc6y__XkEXl-J_9TUW0a8x1hwjFJKcU0/view?usp=sharing)
 
 D1-K1-W3:
