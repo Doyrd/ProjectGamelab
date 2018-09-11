@@ -48,7 +48,7 @@ D1-K1-W4:
 
 Extra:
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
-* [**Logboek Lucas Muileboom**](#)
+* [~~Logboek Lucas Muileboom~~](#)
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
 * [Ontwerp met class diagram](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
 
