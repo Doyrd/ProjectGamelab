@@ -38,17 +38,17 @@ D1-K1-W3:
 * [__Source code__](#)
 * [Schema's](#)
 * [Onderwerpdocumenten](#)
-* [Tussentijdse tests](#)
+* [Tussentijdse tests](https://drive.google.com/file/d/1iz4lNBSjEwsO5ppdnZL19csc6Tpor5_E/view?usp=sharing)
 
 D1-K1-W4:
 * [Product](#)
 * [__Testplan__](https://drive.google.com/file/d/1MOCzryus9uILLXT6bfprCk66Fl2xIWyd/view?usp=sharing)
-* [__Testrapport__](https://drive.google.com/file/d/1ryKSjJ8zvi7tuwFIVj8PhrIrCqgaa457/view?usp=sharing)
+* [__Testrapport__](#)
 * [__Usertests (footage op YouTube)__](#)
 
 Extra:
-* [Logboek Dave Bakker]()
-* [Logboek Lucas Muileboom]()
+* [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
+* [**Logboek Lucas Muileboom**](#)
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
 * [Ontwerp met class diagram](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
 
