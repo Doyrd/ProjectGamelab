@@ -2,7 +2,6 @@
 
 Team #16
 1. Dave Bakker.
-2. Lucas Muileboom.
 
 ## Ontwerp
 
@@ -24,32 +23,32 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage
 Hier de links naar onze documentatie:
 
 D1-K1-W1:
-* [Presentatie (1)](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
-* [__Bronnenlijst__](https://drive.google.com/file/d/10HvNiMM2WZVrq8uvivEcCxFiL0xsD8O7/view?usp=sharing)
-* [__Beschrijving onderzoek__](https://drive.google.com/file/d/1tOaJLPx6USeemKBD5VJDV39P4owPE8zy/view?usp=sharing)
+* [Presentatie (1)](https://docs.google.com/presentation/d/1UW9WHgsj-t57Ceb65hDU4s2L42CUcESf6Rq5U8K4WSg/edit?usp=sharing)
+* [__Bronnenlijst__](https://drive.google.com/file/d/1hxKrCu9GXQFzFfCu9l_7dYYqLeaaWvJZ/view?usp=sharing)
+* [__Beschrijving onderzoek__](https://drive.google.com/file/d/1pumLv6O9vQ4woqV8dsebwakuv3hUr6Y1/view?usp=sharing)
 
 D1-K1-W2:
-* [Presentatie (2)](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
-* [__Technisch design document__](https://drive.google.com/file/d/18vcrHzeiKov0kFHB6xWupzvyMwCiahmv/view?usp=sharing)
-* [__IDE document__](https://drive.google.com/file/d/1cce1Arzxs2l9rkVMqd0DcHbqfA33j-nt/view?usp=sharing)
+* [Presentatie (2)](https://docs.google.com/presentation/d/1luNqptWg_HmfPHQU2XJd0iP1Pc_xJlvMG_kLePikuhs/edit?usp=sharing)
+* [__Technisch design document__](https://drive.google.com/file/d/1gPmpUKdePJeDPwYBQtg6GucqsZt1I0wn/view?usp=sharing)
+* [__IDE document__](https://drive.google.com/file/d/19_EPPnnqdyQoIuN4LuqnKg_-2er_AxlF/view?usp=sharing)
 
 D1-K1-W3:
-* [Presentatie (3)](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
+* [Presentatie (3)](https://docs.google.com/presentation/d/1RfAexsPfmazTtIJ7ebs4T_XWbmdc1RqCjhKLe9dajxg/edit?usp=sharing)
 * [__Source code__](#)
 * [Schema's](#)
-* [Onderwerpdocumenten](https://drive.google.com/file/d/1d6JPW0lKQliAAFrFJ0UgOTTTaDvn7YN3/view?usp=sharing)
-* [Tussentijdse tests](https://drive.google.com/file/d/1iz4lNBSjEwsO5ppdnZL19csc6Tpor5_E/view?usp=sharing)
+* [Onderwerpdocumenten](https://drive.google.com/file/d/18Ab9ndmi2zV0M6KQzUb6sP4YDtaq6VkZ/view?usp=sharing)
+* [Tussentijdse tests](https://drive.google.com/file/d/1vwvwu_DJU_AvRv_kSjf5yTJMBUEZoHmX/view?usp=sharing)
 
 D1-K1-W4:
 * [Product](#)
-* [__Testplan__](https://drive.google.com/file/d/1MOCzryus9uILLXT6bfprCk66Fl2xIWyd/view?usp=sharing)
+* [__Testplan__](https://drive.google.com/file/d/1QPRCjBxtYnP-iTSmVJ9WmOaaGn6kaJvP/view?usp=sharing)
 * [__Testrapport__](#)
 * [__Usertests (footage op YouTube)__](#)
 
 Extra:
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
-* [Logboek Lucas Muileboom](https://docs.google.com/spreadsheets/d/1jQcBpCrEyeLHWyfBpI4QbLJH3TwDP6p8EPcgKvCXerE/edit?usp=sharing)
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
 
 (Notitie: alle dikgedrukte woorden zijn onderdeel van het keuzedeel.)
+
 (Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
