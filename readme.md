@@ -24,17 +24,17 @@ Dit spel is ontworpen rond om mensen (fanatieke gamers) die stress (oftewel rage
 Hier de links naar onze documentatie:
 
 D1-K1-W1:
-* [__Presentatie (1)__](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
+* [Presentatie (1)](https://docs.google.com/presentation/d/1KavQDxosGk7xS5gAm0Z6DnqZYTZiMPfhS-F4pogaX6o/edit#slide=id.p1)
 * [__Bronnenlijst__](https://drive.google.com/file/d/10HvNiMM2WZVrq8uvivEcCxFiL0xsD8O7/view?usp=sharing)
 * [__Beschrijving onderzoek__](https://drive.google.com/file/d/1x3jXmL7yKNQkxqr77USwyQ4hkga9PdjA/view?usp=sharing)
 
 D1-K1-W2:
-* [__Presentatie (2)__](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
+* [Presentatie (2)](https://docs.google.com/presentation/d/1q7IJHRmvxRCddrX7cTkWahoMxI9tJVifyFrwXE020Jg/edit?usp=sharing)
 * [__Technisch design document__](#)
 * [__IDE document__](#)
 
 D1-K1-W3:
-* [__Presentatie (3)__](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
+* [Presentatie (3)](https://docs.google.com/presentation/d/1XnEjCFhfLDjDDHqvGG1la2_GnxFAwwd-YjKZDq_ewOc/edit?usp=sharing)
 * [__Source code__](#)
 * [Schema's](#)
 * [Onderwerpdocumenten](#)
