@@ -28,12 +28,12 @@ D1-K1-W1:
 * [__Beschrijving onderzoek__](https://drive.google.com/file/d/1pumLv6O9vQ4woqV8dsebwakuv3hUr6Y1/view?usp=sharing)
 
 D1-K1-W2:
-* [Presentatie (2)](https://docs.google.com/presentation/d/1luNqptWg_HmfPHQU2XJd0iP1Pc_xJlvMG_kLePikuhs/edit?usp=sharing)
+* [Presentatie (2)](https://docs.google.com/presentation/d/1Z0DfjUO_Y_zKlI2vC5jJMhCPzGBMGdwAz73_6Pm2ej4/edit?usp=sharing)
 * [__Technisch design document__](https://drive.google.com/file/d/1gPmpUKdePJeDPwYBQtg6GucqsZt1I0wn/view?usp=sharing)
 * [__IDE document__](https://drive.google.com/file/d/19_EPPnnqdyQoIuN4LuqnKg_-2er_AxlF/view?usp=sharing)
 
 D1-K1-W3:
-* [Presentatie (3)](https://docs.google.com/presentation/d/1RfAexsPfmazTtIJ7ebs4T_XWbmdc1RqCjhKLe9dajxg/edit?usp=sharing)
+* [Presentatie (3)](https://docs.google.com/presentation/d/1gvJAxb4LcY65mIV8VoEzzhcx_f0w_Q_aAPNTF5OzZ8g/edit?usp=sharing)
 * [__Source code__](#)
 * [Schema's](#)
 * [Onderwerpdocumenten](https://drive.google.com/file/d/18Ab9ndmi2zV0M6KQzUb6sP4YDtaq6VkZ/view?usp=sharing)
