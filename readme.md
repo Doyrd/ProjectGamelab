@@ -51,4 +51,5 @@ Extra:
 * [Logboek Lucas Muileboom](https://docs.google.com/spreadsheets/d/1jQcBpCrEyeLHWyfBpI4QbLJH3TwDP6p8EPcgKvCXerE/edit?usp=sharing)
 * [Trello](https://trello.com/b/T7uiUk1U/projectgamelab)
 
+(Notitie: alle dikgedrukte woorden zijn onderdeel van het keuzedeel.)
 (Tip: open de links in een secundaire tab zodat het verlaten van de GitHub pagina geen probleem zal zijn.)
