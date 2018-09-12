@@ -43,7 +43,7 @@ D1-K1-W4:
 * [Product](#)
 * [__Testplan__](https://drive.google.com/file/d/1QPRCjBxtYnP-iTSmVJ9WmOaaGn6kaJvP/view?usp=sharing)
 * [__Testrapport__](https://drive.google.com/file/d/16V8eT_985JvyEgt-9MtMPkzvrAK366Vw/view?usp=sharing)
-* [__Usertests (footage op YouTube)__](#)
+* [__Usertests (footage op YouTube)__](https://youtu.be/1OnG1iK27pY)
 
 Extra:
 * [Logboek Dave Bakker](https://docs.google.com/spreadsheets/d/1ADUlzbhDDSxK8JQGINdzIm-Rh_wz_pmmVQcEgMS8_G8/edit?usp=sharing)
